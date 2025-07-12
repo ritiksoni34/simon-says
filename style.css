@@ -1,0 +1,51 @@
+body{
+    display:flex ;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.main_box1{
+    display: flex;
+}
+
+.main_box2{
+    display: flex;
+}
+
+.box{
+    height:120px;
+    width: 120px;
+    border: 10px solid black;
+    border-radius:15px ;
+    margin: 30px;
+}
+
+.box1{
+    background-color: red;
+}
+.box2{
+    background-color: cornflowerblue;
+}
+.box3{
+    background-color: yellowgreen;
+}
+.box4{
+    background-color: purple;
+}
+
+.flash{
+    background-color: white;
+}
+
+.userFlash{
+    background-color: green;
+}
+
+body{
+    background-color: rgb(7, 7, 206);
+}
+
+#over{
+    background-color: red;
+}
